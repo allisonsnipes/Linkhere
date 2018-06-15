@@ -1,0 +1,1 @@
+Working on the first drill. In this assignment I am supposed to create two links: one that opens a link to StackOverflow, and another that opens to my personal email address.
