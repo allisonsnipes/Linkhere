@@ -6,10 +6,15 @@
 
 body {
 	color: black;
-
+	border: 1px solid black;
+	background-color: white;
 }
 
+h2, p, b, main {
+	background-color: white;
+}
 
 a {
 	color: aqua;
+	background-color: white;
 }
